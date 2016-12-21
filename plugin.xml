@@ -19,10 +19,6 @@
         <clobbers target="SecureStorage" />
     </js-module>
 
-    <js-module src="www/sjcl_ss.js" name="sjcl_ss">
-        <runs/>
-    </js-module>
-
     <engines>
         <engine name="cordova" version=">=3.0.0" />
     </engines>
